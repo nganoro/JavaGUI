@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="title_activity_list_interface">List Interface</string>
+    <string name="btnText">Add To List</string>
+    <string name="btnViewList">View List</string>
+    <string name="txtDisclaimer">Disclaimer: Add all to-do items.</string>
+    <string name="chkboxTxt">Completed?</string>
+</resources>
